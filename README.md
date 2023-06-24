@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yxi1d</h1>
-<h3 align="center">I'm a Developer @ Australia, NULL and I'm something years old!</h3>
+<h3 align="center">I'm a Developer @ [ Null Identifier, at line 2 ] and I'm something years old!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yxi1d&label=Profile%20views&color=0e75b6&style=flat" alt="yxi1d" /> </p>
 
